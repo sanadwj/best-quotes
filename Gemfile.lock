@@ -4,7 +4,7 @@ GEM
     erubis (2.7.0)
     multi_json (1.15.0)
     rack (2.2.3)
-    rulers (0.1.0)
+    rulers (0.2.0)
       erubis
       multi_json
       rack (~> 2.2)
