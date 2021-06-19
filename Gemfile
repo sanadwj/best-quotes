@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "rulers", :path => "../rulers"
+gem "speses", :path => "../speses"
 
 group :development do
   gem 'rerun'

@@ -1,7 +1,7 @@
 PATH
-  remote: ../rulers
+  remote: ../speses
   specs:
-    rulers (0.2.0)
+    speses (0.2.0)
       erubis
       multi_json
       rack (~> 2.2)
@@ -29,7 +29,7 @@ PLATFORMS
 
 DEPENDENCIES
   rerun
-  rulers!
+  speses!
 
 BUNDLED WITH
    2.1.4
